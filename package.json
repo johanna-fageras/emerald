@@ -4,7 +4,7 @@
   "description": "Emerald Icons",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:json": "node lib/generate-json.js"
   },
   "keywords": [
     "svg",
